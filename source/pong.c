@@ -1,10 +1,5 @@
 
 
- /*
- * Created By Furhman pong for psTv
- */
-
-
 
 #include "draw.h"
 #include "hid.h"
